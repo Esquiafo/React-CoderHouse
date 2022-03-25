@@ -1,0 +1,45 @@
+.btn-circle,
+#to-top {
+  border-radius: 50%;
+  background: #111e6c;
+  padding: 6px;
+  font-size: 14px;
+  /* border-radius: 50%; */
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  color: #fff;
+  text-align: center;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.c2a-btn {
+  margin: 48px auto 0;
+  margin: 4.8rem auto 0;
+}
+
+.btn-default {
+  color: #fff;
+  background-color: #111e6c;
+  border-color: #111e6c;
+  transition: all 1s ease;
+}
+
+.btn-group-lg > .btn,
+.btn-lg {
+  padding: 18px 28px;
+  font-size: 18px;
+  line-height: 1.3333333;
+  border-radius: 50px;
+}
+
+.btn-group .btn-or {
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  z-index: 99;
+  box-shadow: 0;
+  border: 2px solid #fff;
+}
