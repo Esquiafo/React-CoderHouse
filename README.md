@@ -1,4 +1,7 @@
 # E-commerce 
+
+![6308bd696079c90019e38466](https://user-images.githubusercontent.com/57331052/216401700-08c2805b-ded0-4fa5-a597-1115605002c7.png)
+
 ## Explicacion de los npm adicionales descargados
 
 Semantic-ui - Intefaz Grafica:
@@ -21,15 +24,3 @@ Axios - APIs
 
 History - Redirect 
 > Se uso por unica vez para redirigir la pagina una vez finalizada la compra 
-
-GH-Pages
-> Herramienta que permite hacer un deploy sobre la plataforma de Github
-
--------------------------------
-### Complementos que no se llegaron a utilizar
-
-Mercadopago
-> Realizar los pagos a travez de la plataforma de MercadoPago
-
-UUID
-> Encriptador/Hasheo de los usuario para no tener filtracion de datos sensibles 
